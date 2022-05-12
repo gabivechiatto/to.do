@@ -1,17 +1,12 @@
-# Desafio 01 Trilha React - to.do
+# to.do
 
-<p>Resoluçãoo do Desafio 01 da trilha de React do Ignite - Rocketseat</p>
 
-<p>Tecnologias utilizadas: React, Jest, Yarn. </p>
- 
-## Como usar? ##
- 
- <div align="center">
+<div align="center">
   <img src="todo.png" alt="to.do"/> 
  </div>
 
   &#xa0;
-
+ 
 
 </div>
 
